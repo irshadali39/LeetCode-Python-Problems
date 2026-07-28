@@ -16,4 +16,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1148-article-views-i](https://github.com/irshadali39/LeetCode-Python-Problems/tree/master/1148-article-views-i) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/irshadali39/LeetCode-Python-Problems/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1683-invalid-tweets](https://github.com/irshadali39/LeetCode-Python-Problems/tree/master/1683-invalid-tweets) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/irshadali39/LeetCode-Python-Problems/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
